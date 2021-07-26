@@ -1,0 +1,13 @@
+O que aprendi sobre Styled Components?
+
+- Componentes estilizados
+
+- Reset de CSS com o createGlobalStyle
+
+- Uso de variáveis
+
+- Uso de props dentro de componentes estilizados
+
+- Herança de componentes estilizados
+
+- Uso de temas com o ThemeProvider do Styled Components
